@@ -12,9 +12,9 @@ jupyter = "*"
 ipykernel = "*"
 openpyxl = "*"
 exceptiongroup = "*"
-virtualenv = "==20.0.31"
-importlib-metadata = "==1.7.0"
 plotly = "*"
+python-dotenv = "*"
+meson = "*"
 
 [dev-packages]
 
