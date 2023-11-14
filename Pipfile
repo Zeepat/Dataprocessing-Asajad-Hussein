@@ -15,6 +15,7 @@ exceptiongroup = "*"
 plotly = "*"
 python-dotenv = "*"
 meson = "*"
+dash = "*"
 
 [dev-packages]
 
