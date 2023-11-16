@@ -16,6 +16,8 @@ plotly = "*"
 python-dotenv = "*"
 meson = "*"
 dash = "*"
+dash-bootstrap-components = "*"
+py-mon = "*"
 
 [dev-packages]
 
