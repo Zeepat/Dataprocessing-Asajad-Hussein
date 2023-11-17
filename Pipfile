@@ -18,6 +18,7 @@ meson = "*"
 dash = "*"
 dash-bootstrap-components = "*"
 py-mon = "*"
+dash-bootstrap-templates = "*"
 
 [dev-packages]
 
